@@ -109,7 +109,7 @@ class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 				.hasAnyRole("JOBAPPLICANT")
 				.antMatchers("/api/hackathons/getHackathonDetails/{hackathonId}/{candidateOrRecruiterId}")
 				.hasAnyRole("JOBRECRUITER", "JOBAPPLICANT")
-				.antMatchers("/resume/retryResumeRegistration", "/resume/pdf/{id}", "/applicant/getApplicantById/{id}",
+				.antMatchers("/api/analytics/**","/resume/retryResumeRegistration", "/resume/pdf/{id}", "/applicant/getApplicantById/{id}",
 						"/send-message", "/health", "/applicant/signOut", "/forgotpassword/recuriterverify-otp",
 						"/forgotpassword/recuritersend-otp",
 						"/forgotpassword/recuriterreset-password/set-new-password/{email}",

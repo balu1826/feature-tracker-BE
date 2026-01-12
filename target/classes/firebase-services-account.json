@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "talentstream-b6d9d",
+  "private_key_id": "13c9b3f8d6ba99baddcb16abccc806acfca9eaa1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZgZ7RWKE4eA10\nFqwHvtfpqPhDGaAyGXCf/uCAYLCSy4xRqMvYpu/Q9+oSz1ss5icwux5EG0Ad3fWS\nLHZ663OwfNjFy/+Ms59aKDuzpI/pYNYLOP+YQUR2Y+ktiRAmswXutPOMJFnPuWTc\nccc5dzfFKZVIT7KifaQParnvwDS5VrcPnH2fYVYLLgxsxQYUpVikJpvRysaAurEa\nKvl/C322aAzEsIo6ss03LFGKqWUTk28N11yZTfL4jXjSao5crmbiovV+GsZ2pDbD\nHscjBa/TvO2DRVLqzKR+bK1zIDmKQNkIeQJUnw5av09Hz+3dVRuNBFHGrMZuuvnP\nAcjoX75fAgMBAAECggEAEdGdqjbhlle3enA1DbljxN+z3wNlbVVKNcFSsRG6xXvp\ndfMnKAudD/iPc5ULOiVsxoA93YSB/zBk4uHDnxRU+PtxYtrwh51bi65KHdB4fb0S\nK/8yaU3Hhw9uVe2pphH6hXDLlwqPVQYyLiEgGiQbLIrYkQD+eHNkkmLC8tJDP3+l\ncUY8A2wikV2V5vVxa5gVQgGqFooY7Og9JiUvGtb5vy4YmhhC8rTdKQiVAUaTozRa\nqDduQtDEPpYPnDmcNQmnSRmCDQ6rzyDze6G3sCvk2reIBF/PxwYOpRZk6eNCmAvG\nK92gRrX/QYN9Wv/soONxZxa1SVYlYjp1TFUrfvGn6QKBgQD3HOFqFPlcOj6/r7WD\nU9UrsdHX91qMUxWU0bQ+EeE6NBW+vr2OWUPpF+sI8goTEuqS/8P29bBAIZftrjOj\nkQEq0OUvU8pjXck0zBWU28uRvcYotbvfeIoBuAMNCT1k7tvJtSFIWi08gtWVk2Rz\nBzUsZHgjyFHDR2JzVe18Oq6YYwKBgQDhVCiiREKYJC2/0JfojPW1KtZDMyoEuj+w\npf+Qp8LpJVnNFZhXDGcgHB7O67PsNrr8KjQVYUpNKqwzWMvaOChtYiQ70LwCgTF4\n2pvAwTccxO9wRMusPg6t4LsQ4UV1tPtjW1zeiJ3g7xkgbyxqWQGMJaI89pxNFtsN\nFjbH+fl81QKBgEMdzPuLBs9N4o0dpCcvNc7QVTZbMHS8fDgXXOUe5hVw4BcWp1Vq\nWU+N94BOfP4BPUT/wrHouR4yAZnEnrHmSHLgmd7o2ydx6Zw1cgckS34iFRgphAWG\nL7WXzPxVbh9j4L5AO/HyzCaLQoeFqNq1MnQENb1CQzLOyKaayA3dwl4RAoGBANt3\ndPxXL+Wvlz+0k8DVSpxiVL6vHsXsAgy0Ie9q9tTOpGC0H+TpF6iWuwsfV+dCh20E\nTiZk1FHEtmRsoGCzQe0IIfKApB5sZxsnEXz0tBE5X10iJJ5m8zU4JfuS7mxvEkr7\nucCln+BuATMuFTyf5Hn0TcjDCgmrsT9V25V7TBzhAoGBAKAyQb5plLLOE6ICIR/p\nvyPeIjAqB74NGs779LaeRE7zBaILlmHEZDHo5WeL8OR71Sl4361UI5xHBkTHKB7G\nHceph2HdSHHk8EeJUdMbo/++ew8jLNR7yJuSYLKsQu6YyJggUef0eeq8BnYovY/e\nmjn+RHMmU8MkWYAzkn+x3EqS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@talentstream-b6d9d.iam.gserviceaccount.com",
+  "client_id": "109143450693096021658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40talentstream-b6d9d.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
