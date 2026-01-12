@@ -3,7 +3,7 @@ package com.talentstream.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "user_feature_usage")
+@Table(name = "feature_tracker")
 public class UserFeatureUsage {
 
     @Id
@@ -18,12 +18,24 @@ public class UserFeatureUsage {
 
     @Column(name = "hackathons_count", nullable = false)
     private int hackathonsCount = 0;
-
+    
+    @Column(name = "ask_newton_count", nullable = false)
+    private int askNewton = 0;
+    
+    
     /* =====================
        CONSTRUCTORS
        ===================== */
 
-    protected UserFeatureUsage() {
+    public int getAskNewton() {
+		return askNewton;
+	}
+
+	public void setAskNewton(int askNewton) {
+		this.askNewton = askNewton;
+	}
+
+	protected UserFeatureUsage() {
         // JPA requirement
     }
 
@@ -45,6 +57,10 @@ public class UserFeatureUsage {
 
     public void incrementHackathons() {
         this.hackathonsCount++;
+    }
+    
+    public void incrementAskNewton() {
+        this.askNewton++;
     }
 
     /* =====================

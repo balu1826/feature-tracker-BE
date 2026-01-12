@@ -39,6 +39,9 @@ public class FeatureUsageService {
             case "HACKATHONS":
                 usage.incrementHackathons();
                 break;
+            case "ASK NEWTON":
+            	usage.incrementAskNewton();
+            	break;
             default:
                 throw new IllegalArgumentException(
                     "Invalid feature: " + feature
@@ -67,6 +70,6 @@ public class FeatureUsageService {
             );
     }
 
-        // no save needed – JPA dirty checking
+    
     }
 }
